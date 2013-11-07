@@ -24,6 +24,7 @@
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
     <preference name="phonegap-version" value="3.1.0" />
+    <preference name="ios-statusbarstyle" value="black-opaque" />
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
